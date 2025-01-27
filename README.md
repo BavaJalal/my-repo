@@ -1,2 +1,2 @@
 # my-repo
-sample program to calculate radius
+sample program to calculate radius of circle
